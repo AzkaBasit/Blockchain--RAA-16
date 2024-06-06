@@ -3,11 +3,11 @@ A customized hash function for blockchain
 
 # Block chain
 
-A blockchain is “a distributed database that maintains a continuously growing list of ordered records, called blocks.” These blocks “are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data
+A blockchain is “a distributed database that maintains a continuously growing list of ordered records, called blocks.” These blocks “are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data.
 
-<p align="center">
-  ![My Image](https://github.com/AzkaBasit/Blockchain--RAA-16/blob/main/images/img1.png)
-</p>
+![My Image](images/img1.png)
+
+
 
 ## Transactions
 
@@ -33,16 +33,17 @@ Once a miner successfully validates a block, they are rewarded with a certain am
 Immutability: Once a transaction is recorded in the blockchain, it becomes extremely difficult to change or delete. Each block in the chain contains a number of transactions, and every time a new transaction occurs, a record of that transaction is added to every participant's ledger.
 
 # HASH Structure
-<p align="center">
-  ![My Image](https://github.com/AzkaBasit/Blockchain--RAA-16/blob/main/images/img2.png)
-</p>
+
+ ![My Image](https://github.com/AzkaBasit/Blockchain--RAA-16/blob/main/images/img2.png)
+
 
 # HASH Code
-<p align="center">
-  ![My Image](https://github.com/AzkaBasit/Blockchain--RAA-16/blob/main/images/img3.png)
-</p>
+
+![My Image](https://github.com/AzkaBasit/Blockchain--RAA-16/blob/main/images/img3.png)
+
 
 # Integrity Verification
-<p align="center">
-  ![My Image](https://github.com/AzkaBasit/Blockchain--RAA-16/blob/main/images/img4.png)
-</p>
+
+![My Image](https://github.com/AzkaBasit/Blockchain--RAA-16/blob/main/images/img4.png)
+
+
